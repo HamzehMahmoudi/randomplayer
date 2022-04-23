@@ -5,4 +5,3 @@ series = {
     "familyguy": 'PATH TO FAMILY GUY SEASONS',
     "himym": 'PATH TO HIMYM SEASONS',
 }
-}
