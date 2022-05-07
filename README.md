@@ -17,3 +17,6 @@ series = {
 ## Usage
 `python -m player.py show_name `
 if you dont enter the show name it will play random show from the list in 'config.py'
+
+# TODO :
+make it API that play random shit from internet
